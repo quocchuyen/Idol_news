@@ -1,0 +1,34 @@
+{
+  "name": "idol_news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quocchuyen/Idol_news.git"
+  },
+  "keywords": [
+    "Idol",
+    "news",
+    "Kpop",
+    "Idol",
+    "news",
+    "Kpop",
+    "Idol",
+    "news"
+  ],
+  "author": "quocchuyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quocchuyen/Idol_news/issues"
+  },
+  "homepage": "https://github.com/quocchuyen/Idol_news#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
